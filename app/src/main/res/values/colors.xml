@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#053d96</color>
+    <color name="colorPrimaryDark">#023486</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_material_light">#023486</color>
+    <color name="primary_dark_material_light">#053d96</color>
+    <color name="accent_material_light">#04199b</color>
+    <color name="primary_text_default_material_light">#de050000</color>
+    <color name="radioBtnColor">#04199b</color>
+    <color name="backgroundColor">#003385</color>
+    <color name="textColor">#ffffff</color>
+    <color name="primary_text_material_light">#deffffff</color>
+</resources>

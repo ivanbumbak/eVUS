@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eVUŠ</string>
+
+    <!-- Undergraduate Management [CHAR LIMIT=50] -->
+    <string name="undergraduate_man">Preddiplomski studij Menadžment</string>
+
+    <!-- Undergraduate Traffic [CHAR LIMIT=50] -->
+    <string name="undergraduate_traf">Preddiplomski studij Promet</string>
+
+    <!-- Undergraduate Administrative [CHAR LIMIT=50] -->
+    <string name="undergraduate_admin">Preddiplomski Upravni studij</string>
+
+    <!-- Graduate Management [CHAR LIMIT=50] -->
+    <string name="graduate_man">Specijalistički studij Menadžment</string>
+
+    <!-- Above 65 ECTS Toast [CHAR LIMIT=NONE]-->
+    <string name="high_enrolled_ects">Ne možete upisati više od 66 ECTS
+        bodova u akademskoj godini.</string>
+
+    <!-- Below 0 ECTS Toast [CHAR LIMIT=NONE]-->
+    <string name="negative_ects">Ostvareni ECTS bodovi ne mogu biti negativni.</string>
+
+    <!-- Empty EditText Toast [CHAR LIMIT=NONE]-->
+    <string name="emtpy_edittext">Niste unijeli broj bodova</string>
+
+    <!-- Price of one ECTS point text [CHAR LIMIT=40] -->
+    <string name="priceof_one_ects">Cijena 1 ECTS</string>
+
+    <!-- Users ECTS text [CHAR LIMIT=40] -->
+    <string name="user_ects">Ostvareni ECTS</string>
+
+    <!-- Enrolling cost (Defualt price) [CHAR LIMIT=40] -->
+    <string name="enrolling_cost">Troškovi upisa</string>
+
+    <!-- Enrolled ECTS [CHARL LIMIT=70] -->
+    <string name="enrolled_ects">Upisani ECTS bodovi u tekućoj akademskoj godini</string>
+
+    <!--  Unfulfilled ECTS [CHARL LIMIT=40] -->
+    <string name="unfulfilled_ects">Nepoloženi ECTS bodovi</string>
+
+    <!--  Summary [CHARL LIMIT=35] -->
+    <string name="summary">Ukupno za platiti</string>
+
+    <!-- Choose course [CHAR LIMIT=30] -->
+    <string name="choose_course">Odaberi smjer</string>
+
+    <!-- Enrollment year [CHAR LIMIT=30] -->
+    <string name="enrollment_year">Godina upisa</string>
+
+    <!-- Enrollment after 2014/2015 [CHAR LIMIT=30] -->
+    <string name="after2014">Nakon 2014/2015</string>
+
+    <!-- Enrollment before 2014/2015 [CHAR LIMIT=30] -->
+    <string name="before2014">Do 2014/2015</string>
+
+    <!-- Enrolled ECTS EditText Hint [CHAR LIMIT=40] -->
+    <string name="enrolled_hint">Upisani ECTS bodovi</string>
+
+    <!-- Unfulfilled ECTS EditText Hint [CHAR LIMIT=40] -->
+    <string name="unfulfilled_hint">Nepoloženi ECTS bodovi</string>
+
+    <!-- Button Text [CHAR LIMIT=30] -->
+    <string name="calculate_text">Izračunaj</string>
+
+    <!-- Describe Activity Menu [CHAR LIMIT=30] -->
+    <string name="instruction">Upute</string>
+
+    <!-- Instructions view -->
+
+    <!-- First step of instructions [CHAR LIMIT=NONE] -->
+    <string name="sts_instructions"><b><font color='#FF003385'>1.</font></b> Odaberite smjer na
+        kojem studirate.</string>
+
+    <!-- Second step of instructions [CHAR LIMIT=NONE] -->
+    <string name="nds_instructions"><b><font color='#FF003385'>2.</font></b> Upišite broj ECTS
+        bodova koji ste upisali u tekućoj akademskoj godini i broj nepoloženih ECTS bodova.</string>
+
+    <!-- Third step of instructions [CHAR LIMIT=NONE] -->
+    <string name="rds_instructions"><b><font color='#FF003385'>3.</font></b> Klikom na tipku
+        <b><font color='#FF003385'>Izračunaj</font></b> aplikacija će Vam ispisati koliko ste
+        ostvarili ECTS-a te koliko morate platiti upis u sljedeću akademsku godinu.</string>
+
+    <!-- App is only for VUS students [CHAR LIMIT=NONE]-->
+    <string name="vus_only">Aplikacija je namijenjena isključivo studentima Veleučilišta u
+        Šibeniku.</string>
+</resources>
